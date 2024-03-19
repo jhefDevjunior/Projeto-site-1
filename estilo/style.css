@@ -25,16 +25,16 @@ h1 {
 
 h2 {
     font-size: 1cm;
-    color: aquamarine;
+    color: blue;
 }
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: aquamarine;
+    color: blue;
 }
 
 a:hover {
     text-decoration: underline;
-    color: aquamarine;
+    color: blue;
 }
