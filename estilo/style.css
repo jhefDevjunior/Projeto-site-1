@@ -27,3 +27,14 @@ h2 {
     font-size: 1cm;
     color: aquamarine;
 }
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: aquamarine;
+}
